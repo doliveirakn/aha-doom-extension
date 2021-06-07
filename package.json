@@ -5,7 +5,7 @@
   "author": "doliveirakn",
   "repository": {
     "type": "git",
-    "url": "TODO: Add the GitHub URL to your extension in package.json"
+    "url": "https://github.com/doliveirakn/aha-doom-extension"
   },
   "license": "MIT",
   "devDependencies": {
