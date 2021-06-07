@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["package.json"],
+      "url": "./node_modules/aha-cli/schema/package-schema.json"
+    }
+  ]
+}

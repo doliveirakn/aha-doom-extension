@@ -1,0 +1,34 @@
+{
+  "name": "doliveirakn.doom",
+  "description": "doom",
+  "version": "0.0.0",
+  "author": "doliveirakn",
+  "repository": {
+    "type": "git",
+    "url": "TODO: Add the GitHub URL to your extension in package.json"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "aha-cli": "1.9.8"
+  },
+  "ahaExtension": {
+    "contributes": {
+      "views": {
+        "samplePage": {
+          "title": "Sample Page",
+          "entryPoint": "src/views/samplePage.js",
+          "host": "page",
+          "location": {
+            "home": "Work"
+          }
+        }
+      },
+      "commands": {
+        "sampleCommand": {
+          "title": "Sample Command",
+          "entryPoint": "src/commands/sampleCommand.js"
+        }
+      }
+    }
+  }
+}
