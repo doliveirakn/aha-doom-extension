@@ -1,17 +1,7 @@
-# doom
-  
-TODO: Supply a short overview of the functionality the extension brings to Aha! Develop
-This [Aha! Develop](https://www.aha.io/develop/overview) extension enables...
+# Aha-Doom
 
-It provides these contributions:
+This is a sample extension that brings DOOM into Aha!
 
-TODO: Add a contribution list here. These should briefly describe each of the features provided by this extension.
-
-## Demo
-
-TODO: Add a short .gif screen recording showing some of the highlights of your extension. This can be recorded using a tool like [LICECap](https://www.cockos.com/licecap/).
-
-![demo](demo.gif)
 
 ## Installing the extension
 
@@ -32,7 +22,7 @@ Clone the repo:
 
 TODO: Add the repository URL here
 ```sh
-git clone ...
+git clone git@github.com:doliveirakn/aha-doom-extension.git
 ```
 
 **Note: In order to install an extension into your Aha! Develop account, you must be an account administrator.**
